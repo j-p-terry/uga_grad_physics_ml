@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+pytorch-lightning
+scikit-learn
+scipy
+torch
+torchvision
