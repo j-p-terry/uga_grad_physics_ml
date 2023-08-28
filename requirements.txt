@@ -2,7 +2,7 @@ jupyterlab
 matplotlib
 numpy
 pandas
-pytorch-lightning
+pytorch-lightning==2.0.3
 scikit-learn
 scipy
 tensorboard
