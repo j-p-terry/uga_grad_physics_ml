@@ -5,6 +5,7 @@ pandas
 pytorch-lightning
 scikit-learn
 scipy
+tensorboard
 torch
 torchvision
 wandb
