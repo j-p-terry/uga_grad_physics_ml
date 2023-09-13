@@ -10,7 +10,7 @@ Schedule:
 
 Useful Links:
 
-* [Virtual Environment help](https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/)
+* [Virtual Environment Help](https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/)
 * [PyTorch Documentation](https://pytorch.org/)
 * [PyTorch Lightning Documentation](https://lightning.ai/docs/pytorch/stable/)
 * [Basic PyTorch Lightning Example](https://lightning.ai/docs/pytorch/latest/starter/introduction.html)
