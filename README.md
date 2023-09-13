@@ -12,5 +12,6 @@ Useful Links:
 
 * [Virtual Environment Help](https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/)
 * [PyTorch Documentation](https://pytorch.org/)
+* [Basic PyTorch Example](https://pytorch.org/tutorials/beginner/pytorch_with_examples.html)
 * [PyTorch Lightning Documentation](https://lightning.ai/docs/pytorch/stable/)
 * [Basic PyTorch Lightning Example](https://lightning.ai/docs/pytorch/latest/starter/introduction.html)
