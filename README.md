@@ -9,6 +9,8 @@ Schedule:
 * Week 3: [Introduction to CNNs](https://github.com/j-p-terry/uga_grad_physics_ml/blob/main/Notebooks/intro_to_cnns.ipynb)
 * Week 4: [Introduction to CNNs Continued](https://github.com/j-p-terry/uga_grad_physics_ml/blob/main/Notebooks/intro_to_cnns.ipynb)
 * Week 5: [Python Practice](https://github.com/j-p-terry/uga_grad_physics_ml/blob/main/Notebooks/python_practice.ipynb)
+* Week 6: [Python Practice continued](https://github.com/j-p-terry/uga_grad_physics_ml/blob/main/Notebooks/python_practice.ipynb)
+* Week 5: [Encoding/Decoding](https://github.com/j-p-terry/uga_grad_physics_ml/blob/main/Notebooks/autoencoders.ipynb)
   
 Useful Links:
 
